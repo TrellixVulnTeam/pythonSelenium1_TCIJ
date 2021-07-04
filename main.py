@@ -17,3 +17,4 @@ print(h1)
 
 assert h1 == "Running Selenium with Headless Chrome Webdriver"
 print("Test Passed")
+driver.close()
